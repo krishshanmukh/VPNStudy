@@ -1,0 +1,15 @@
+PING Weibo.com (36.51.254.234) 56(84) bytes of data.
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=1 ttl=48 time=237 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=2 ttl=48 time=305 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=3 ttl=48 time=540 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=4 ttl=48 time=351 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=5 ttl=48 time=271 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=6 ttl=48 time=500 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=7 ttl=48 time=419 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=8 ttl=48 time=237 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=9 ttl=48 time=239 ms
+64 bytes from 36.51.254.234 (36.51.254.234): icmp_seq=10 ttl=48 time=235 ms
+
+--- Weibo.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 235.252/333.820/540.312/109.538 ms

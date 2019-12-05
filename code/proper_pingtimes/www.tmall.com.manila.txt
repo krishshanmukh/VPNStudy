@@ -1,0 +1,14 @@
+PING www.tmall.com.danuoyi.tbcache.com (47.246.22.236) 56(84) bytes of data.
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=1 ttl=50 time=427 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=2 ttl=50 time=431 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=3 ttl=50 time=521 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=5 ttl=50 time=439 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=6 ttl=50 time=442 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=7 ttl=50 time=429 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=8 ttl=50 time=430 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=9 ttl=50 time=425 ms
+64 bytes from 47.246.22.236 (47.246.22.236): icmp_seq=10 ttl=50 time=425 ms
+
+--- www.tmall.com.danuoyi.tbcache.com ping statistics ---
+10 packets transmitted, 9 received, 10% packet loss, time 9024ms
+rtt min/avg/max/mdev = 425.720/441.548/521.017/28.633 ms

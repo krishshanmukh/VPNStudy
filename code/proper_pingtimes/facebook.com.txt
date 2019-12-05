@@ -1,0 +1,15 @@
+PING facebook.com (31.13.71.36) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=1 ttl=57 time=4.59 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=2 ttl=57 time=6.12 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=3 ttl=57 time=5.86 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=4 ttl=57 time=6.73 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=5 ttl=57 time=16.9 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=6 ttl=57 time=6.39 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=7 ttl=57 time=5.32 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=8 ttl=57 time=11.4 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=9 ttl=57 time=17.2 ms
+64 bytes from edge-star-mini-shv-01-lga3.facebook.com (31.13.71.36): icmp_seq=10 ttl=57 time=6.83 ms
+
+--- facebook.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 4.596/8.762/17.267/4.531 ms

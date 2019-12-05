@@ -1,0 +1,14 @@
+PING www.google.cn (172.217.12.131) 56(84) bytes of data.
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=1 ttl=55 time=21.6 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=2 ttl=55 time=5.94 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=3 ttl=55 time=11.1 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=4 ttl=55 time=7.46 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=5 ttl=55 time=13.2 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=7 ttl=55 time=6.03 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=8 ttl=55 time=9.74 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=9 ttl=55 time=4.41 ms
+64 bytes from lga34s19-in-f3.1e100.net (172.217.12.131): icmp_seq=10 ttl=55 time=6.71 ms
+
+--- www.google.cn ping statistics ---
+10 packets transmitted, 9 received, 10% packet loss, time 9026ms
+rtt min/avg/max/mdev = 4.415/9.601/21.695/5.034 ms

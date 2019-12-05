@@ -1,0 +1,15 @@
+PING www.wshifen.com (104.193.88.77) 56(84) bytes of data.
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=1 ttl=52 time=590 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=2 ttl=52 time=518 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=3 ttl=52 time=384 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=4 ttl=52 time=457 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=5 ttl=52 time=383 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=6 ttl=52 time=400 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=7 ttl=52 time=629 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=8 ttl=52 time=549 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=9 ttl=52 time=471 ms
+64 bytes from 104.193.88.77 (104.193.88.77): icmp_seq=10 ttl=52 time=386 ms
+
+--- www.wshifen.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 383.364/477.199/629.793/86.552 ms

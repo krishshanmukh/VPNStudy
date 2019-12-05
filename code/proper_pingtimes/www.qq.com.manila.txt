@@ -1,0 +1,15 @@
+PING e6156.dscf.akamaiedge.net (23.8.166.107) 56(84) bytes of data.
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=1 ttl=50 time=566 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=2 ttl=50 time=417 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=3 ttl=50 time=542 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=4 ttl=50 time=411 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=5 ttl=50 time=485 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=6 ttl=50 time=669 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=7 ttl=50 time=633 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=8 ttl=50 time=556 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=9 ttl=50 time=411 ms
+64 bytes from a23-8-166-107.deploy.static.akamaitechnologies.com (23.8.166.107): icmp_seq=10 ttl=50 time=600 ms
+
+--- e6156.dscf.akamaiedge.net ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 411.090/529.575/669.695/89.475 ms

@@ -1,0 +1,12 @@
+PING Sina.com.cn (123.126.157.222) 56(84) bytes of data.
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=1 ttl=46 time=510 ms
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=3 ttl=46 time=536 ms
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=4 ttl=46 time=465 ms
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=5 ttl=46 time=482 ms
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=7 ttl=46 time=702 ms
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=8 ttl=46 time=521 ms
+64 bytes from 123.126.157.222 (123.126.157.222): icmp_seq=9 ttl=46 time=466 ms
+
+--- Sina.com.cn ping statistics ---
+10 packets transmitted, 7 received, 30% packet loss, time 9053ms
+rtt min/avg/max/mdev = 465.296/526.507/702.535/76.200 ms

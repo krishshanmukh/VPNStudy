@@ -1,0 +1,14 @@
+PING 360.cn (36.110.213.10) 56(84) bytes of data.
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=1 ttl=44 time=589 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=2 ttl=44 time=675 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=3 ttl=44 time=903 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=5 ttl=44 time=640 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=6 ttl=44 time=594 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=7 ttl=44 time=687 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=8 ttl=44 time=619 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=9 ttl=44 time=607 ms
+64 bytes from 36.110.213.10 (36.110.213.10): icmp_seq=10 ttl=44 time=589 ms
+
+--- 360.cn ping statistics ---
+10 packets transmitted, 9 received, 10% packet loss, time 9009ms
+rtt min/avg/max/mdev = 589.287/656.401/903.645/93.833 ms

@@ -1,0 +1,15 @@
+PING fusa.a.sohu.com (104.254.66.16) 56(84) bytes of data.
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=1 ttl=49 time=84.2 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=2 ttl=49 time=82.2 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=3 ttl=49 time=81.4 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=4 ttl=49 time=83.0 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=5 ttl=49 time=81.8 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=6 ttl=49 time=83.1 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=7 ttl=49 time=82.1 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=8 ttl=49 time=85.3 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=9 ttl=49 time=83.2 ms
+64 bytes from 104.254.66.16 (104.254.66.16): icmp_seq=10 ttl=49 time=82.5 ms
+
+--- fusa.a.sohu.com ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 81.416/82.925/85.312/1.155 ms
