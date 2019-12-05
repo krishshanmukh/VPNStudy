@@ -1,0 +1,16 @@
+traceroute to 200.25.60.35 (200.25.60.35), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  sbuh-leonidas-vlan10-int.uhmc.sunysb.edu (129.49.159.131)  5.972 ms  5.990 ms  5.956 ms
+ 3  * * *
+ 4  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com (38.104.66.205)  8.412 ms  8.420 ms  8.386 ms
+ 5  be2896.ccr41.jfk02.atlas.cogentco.com (154.54.84.201)  9.527 ms  10.499 ms  10.410 ms
+ 6  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  16.901 ms  11.413 ms  11.278 ms
+ 7  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  21.681 ms  22.321 ms  22.153 ms
+ 8  be3482.ccr21.mia01.atlas.cogentco.com (154.54.24.146)  36.235 ms  35.320 ms  36.413 ms
+ 9  be3400.ccr21.mia03.atlas.cogentco.com (154.54.47.18)  36.358 ms  35.895 ms  35.840 ms
+10  38.104.95.2 (38.104.95.2)  175.109 ms  174.948 ms  174.029 ms
+11  noc-cabase-3600.silicanetworks.net.ar (200.59.197.89)  174.019 ms  174.732 ms  174.705 ms
+12  200.59.197.91 (200.59.197.91)  184.574 ms  174.684 ms  175.192 ms
+13  * * *
+14  * * *
+15  200.25.60.35 (200.25.60.35)  183.009 ms  181.299 ms  172.206 ms

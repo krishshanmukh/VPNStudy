@@ -1,0 +1,16 @@
+traceroute to 103.221.233.41 (103.221.233.41), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  sbuh-leonidas-vlan10-int.uhmc.sunysb.edu (129.49.159.131)  7.106 ms  7.117 ms  7.088 ms
+ 3  * cronus-leinodes-t2-5.noc.stonybrook.edu (129.49.7.90)  16.918 ms  16.885 ms
+ 4  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com (38.104.66.205)  8.469 ms  8.480 ms  8.453 ms
+ 5  be2896.ccr41.jfk02.atlas.cogentco.com (154.54.84.201)  9.298 ms  9.306 ms  9.278 ms
+ 6  be3495.ccr31.jfk10.atlas.cogentco.com (66.28.4.182)  10.109 ms  5.346 ms  5.294 ms
+ 7  vodafone.jfk10.atlas.cogentco.com (154.54.10.150)  5.577 ms vodafone.jfk10.atlas.cogentco.com (154.54.9.22)  6.588 ms  7.136 ms
+ 8  ae3-xcr1.nyh.cw.net (195.2.16.133)  96.635 ms  95.899 ms  95.813 ms
+ 9  et-10-3-0-xcr1.ptl.cw.net (195.2.24.242)  82.954 ms * *
+10  ae26-xcr1.mar.cw.net (195.2.3.53)  93.588 ms  93.428 ms  93.988 ms
+11  vodafoneindia-gw-mar.cw.net (213.185.219.54)  186.912 ms  186.696 ms  186.715 ms
+12  * * *
+13  42.104.96.100 (42.104.96.100)  201.173 ms  187.744 ms  187.540 ms
+14  * * *
+15  103.221.233.41 (103.221.233.41)  199.955 ms  187.821 ms  200.425 ms

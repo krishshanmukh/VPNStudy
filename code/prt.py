@@ -1,25 +1,37 @@
 # Python program to measure page load times
+#!/usr/bin/env python
+
+import sys
 
 websites = []
-COUNT = 5
-
 def load_websites():
-    with open("./websites.txt") as f:
+    with open("./google_sites.txt") as f:
         line = f.readline()
         while line:
-            websites.append([line[:-1], []])
+            websites.append([line[:-1], [],[]])
             line = f.readline()
 
-def get_page_request_times():
-    import requests
+COUNT = 10
+import requests
+import json
+def get_page_request_times(filename):
     for i in range(len(websites)):
-        website = websites[i][0]
+        website = "https://"+websites[i][0]
         for _ in range(COUNT):
-            websites[i][1].append(requests.get(website).elapsed.total_seconds())
-        print(websites[i])
-        
+            response = requests.get(website)
+            websites[i][1].append(response.elapsed.total_seconds())
+            websites[i][2].append(len(response.content))
+
+        print("Done "+website)
+
+    print(json.dumps(websites))
+    with open("plt_"+filename+".json","w+") as f:
+        f.write(json.dumps(websites))
 
 if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Please provide the name of the file where the content will be written.")
+        sys.exit()
+
     load_websites()
-    print(websites)
-    get_page_request_times()
+    get_page_request_times(sys.argv[1])

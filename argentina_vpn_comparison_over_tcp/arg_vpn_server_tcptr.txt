@@ -1,0 +1,16 @@
+traceroute to 200.25.60.35 (200.25.60.35), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  sbuh-leonidas-vlan10-int.uhmc.sunysb.edu (129.49.159.131)  5.779 ms  5.777 ms  5.770 ms
+ 3  cronus-leinodes-t2-5.noc.stonybrook.edu (129.49.7.90)  3.766 ms * *
+ 4  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com (38.104.66.205)  6.590 ms  6.570 ms  6.565 ms
+ 5  be2896.ccr41.jfk02.atlas.cogentco.com (154.54.84.201)  6.540 ms  5.337 ms  5.343 ms
+ 6  be2806.ccr41.dca01.atlas.cogentco.com (154.54.40.106)  11.923 ms  10.247 ms  10.647 ms
+ 7  be2112.ccr41.atl01.atlas.cogentco.com (154.54.7.158)  22.576 ms  22.272 ms  22.237 ms
+ 8  be3482.ccr21.mia01.atlas.cogentco.com (154.54.24.146)  37.642 ms  36.829 ms  36.819 ms
+ 9  be3400.ccr21.mia03.atlas.cogentco.com (154.54.47.18)  38.414 ms  38.424 ms  35.439 ms
+10  38.104.95.2 (38.104.95.2)  194.065 ms  191.967 ms  180.106 ms
+11  Noc-Cabase-3600.silicanetworks.net.ar (200.59.197.89)  180.087 ms  184.189 ms  183.454 ms
+12  200.59.197.91 (200.59.197.91)  183.475 ms  175.076 ms  182.828 ms
+13  * * *
+14  * * *
+15  eze-c01.ipvanish.com (200.25.60.35) <syn,ack>  178.142 ms  203.524 ms  203.471 ms

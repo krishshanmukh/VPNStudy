@@ -1,0 +1,25 @@
+PING 200.25.60.35 (200.25.60.35) 56(84) bytes of data.
+64 bytes from 200.25.60.35: icmp_seq=1 ttl=46 time=266 ms
+64 bytes from 200.25.60.35: icmp_seq=2 ttl=46 time=289 ms
+64 bytes from 200.25.60.35: icmp_seq=3 ttl=46 time=209 ms
+64 bytes from 200.25.60.35: icmp_seq=4 ttl=46 time=231 ms
+64 bytes from 200.25.60.35: icmp_seq=5 ttl=46 time=253 ms
+64 bytes from 200.25.60.35: icmp_seq=6 ttl=46 time=276 ms
+64 bytes from 200.25.60.35: icmp_seq=7 ttl=46 time=195 ms
+64 bytes from 200.25.60.35: icmp_seq=8 ttl=46 time=218 ms
+64 bytes from 200.25.60.35: icmp_seq=9 ttl=46 time=241 ms
+64 bytes from 200.25.60.35: icmp_seq=10 ttl=46 time=263 ms
+64 bytes from 200.25.60.35: icmp_seq=11 ttl=46 time=285 ms
+64 bytes from 200.25.60.35: icmp_seq=12 ttl=46 time=205 ms
+64 bytes from 200.25.60.35: icmp_seq=13 ttl=46 time=227 ms
+64 bytes from 200.25.60.35: icmp_seq=14 ttl=46 time=249 ms
+64 bytes from 200.25.60.35: icmp_seq=15 ttl=46 time=270 ms
+64 bytes from 200.25.60.35: icmp_seq=16 ttl=46 time=191 ms
+64 bytes from 200.25.60.35: icmp_seq=17 ttl=46 time=214 ms
+64 bytes from 200.25.60.35: icmp_seq=18 ttl=46 time=236 ms
+64 bytes from 200.25.60.35: icmp_seq=19 ttl=46 time=259 ms
+64 bytes from 200.25.60.35: icmp_seq=20 ttl=46 time=281 ms
+
+--- 200.25.60.35 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19031ms
+rtt min/avg/max/mdev = 191.488/243.435/289.342/30.009 ms

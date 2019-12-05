@@ -1,0 +1,7 @@
+Inferences:
+
+Pinging the VPN server involed with and without VPN:
+While the VPN service uses UDP, the performance is comparable between the 2 in terms of ping time.
+traceroute looks identical with more servers responding when we don't use VPNs.
+
+Even when the VPN uses TCP for communication between the VPN client and the server, the average ping time is approximately the same, with only a small increase when compared to the case where UDP was used.
