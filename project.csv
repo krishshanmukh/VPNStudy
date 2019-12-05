@@ -1,0 +1,716 @@
+Server,website,response time
+No VPN,https://nitw.ac.in,1.818497
+No VPN,https://nitw.ac.in,1.696179
+No VPN,https://nitw.ac.in,1.680583
+No VPN,https://nitw.ac.in,1.835212
+No VPN,https://nitw.ac.in,1.836562
+No VPN,https://www.google.com,0.164167
+No VPN,https://www.google.com,0.166214
+No VPN,https://www.google.com,0.184082
+No VPN,https://www.google.com,0.181756
+No VPN,https://www.google.com,0.176085
+No VPN,https://www.youtube.com,0.09975
+No VPN,https://www.youtube.com,0.097047
+No VPN,https://www.youtube.com,0.097349
+No VPN,https://www.youtube.com,0.106226
+No VPN,https://www.youtube.com,0.109066
+No VPN,https://www.tmall.com,1.006135
+No VPN,https://www.tmall.com,1.165834
+No VPN,https://www.tmall.com,1.004557
+No VPN,https://www.tmall.com,1.017046
+No VPN,https://www.tmall.com,1.145813
+No VPN,https://www.baidu.com,0.535198
+No VPN,https://www.baidu.com,0.470462
+No VPN,https://www.baidu.com,0.486768
+No VPN,https://www.baidu.com,0.583178
+No VPN,https://www.baidu.com,0.502659
+No VPN,https://www.facebook.com,0.094548
+No VPN,https://www.facebook.com,0.135045
+No VPN,https://www.facebook.com,0.134243
+No VPN,https://www.facebook.com,0.123736
+No VPN,https://www.facebook.com,0.119889
+No VPN,https://www.qq.com,0.03923
+No VPN,https://www.qq.com,0.044259
+No VPN,https://www.qq.com,0.048625
+No VPN,https://www.qq.com,0.040284
+No VPN,https://www.qq.com,0.041963
+No VPN,https://www.sohu.com,0.459363
+No VPN,https://www.sohu.com,0.432728
+No VPN,https://www.sohu.com,0.430871
+No VPN,https://www.sohu.com,0.462896
+No VPN,https://www.sohu.com,0.407744
+No VPN,https://www.taobao.com,1.049768
+No VPN,https://www.taobao.com,1.050352
+No VPN,https://www.taobao.com,1.053887
+No VPN,https://www.taobao.com,1.053997
+No VPN,https://www.taobao.com,1.056211
+No VPN,https://login.tmall.com,1.077278
+No VPN,https://login.tmall.com,1.113981
+No VPN,https://login.tmall.com,1.018508
+No VPN,https://login.tmall.com,1.117658
+No VPN,https://login.tmall.com,1.016949
+No VPN,https://www.wikipedia.org,0.151323
+No VPN,https://www.wikipedia.org,0.152148
+No VPN,https://www.wikipedia.org,0.150344
+No VPN,https://www.wikipedia.org,0.148741
+No VPN,https://www.wikipedia.org,0.150272
+Mumbai,TCP,https://nitw.ac.in,3.253173
+Mumbai,TCP,https://nitw.ac.in,2.757632
+Mumbai,TCP,https://nitw.ac.in,3.072185
+Mumbai,TCP,https://nitw.ac.in,2.909284
+Mumbai,TCP,https://nitw.ac.in,2.794508
+Mumbai,TCP,https://www.google.com,1.593565
+Mumbai,TCP,https://www.google.com,2.476998
+Mumbai,TCP,https://www.google.com,2.177583
+Mumbai,TCP,https://www.google.com,1.835276
+Mumbai,TCP,https://www.google.com,2.099749
+Mumbai,TCP,https://www.youtube.com,2.211761
+Mumbai,TCP,https://www.youtube.com,2.536638
+Mumbai,TCP,https://www.youtube.com,1.993933
+Mumbai,TCP,https://www.youtube.com,1.827581
+Mumbai,TCP,https://www.youtube.com,2.044803
+Mumbai,TCP,https://www.tmall.com,3.524316
+Mumbai,TCP,https://www.tmall.com,4.817508
+Mumbai,TCP,https://www.tmall.com,2.493072
+Mumbai,TCP,https://www.tmall.com,2.484392
+Mumbai,TCP,https://www.tmall.com,2.566824
+Mumbai,TCP,https://www.baidu.com,2.240501
+Mumbai,TCP,https://www.baidu.com,2.474261
+Mumbai,TCP,https://www.baidu.com,2.698122
+Mumbai,TCP,https://www.baidu.com,2.371693
+Mumbai,TCP,https://www.baidu.com,2.727684
+Mumbai,TCP,https://www.facebook.com,2.002728
+Mumbai,TCP,https://www.facebook.com,2.115673
+Mumbai,TCP,https://www.facebook.com,2.128787
+Mumbai,TCP,https://www.facebook.com,2.017496
+Mumbai,TCP,https://www.facebook.com,2.221277
+Mumbai,TCP,https://www.qq.com,2.673432
+Mumbai,TCP,https://www.qq.com,3.390328
+Mumbai,TCP,https://www.qq.com,2.956831
+Mumbai,TCP,https://www.qq.com,3.184023
+Mumbai,TCP,https://www.qq.com,3.908658
+Mumbai,TCP,https://www.sohu.com,2.078415
+Mumbai,TCP,https://www.sohu.com,2.515041
+Mumbai,TCP,https://www.sohu.com,2.422281
+Mumbai,TCP,https://www.sohu.com,2.505414
+Mumbai,TCP,https://www.sohu.com,2.4292
+Mumbai,TCP,https://www.taobao.com,3.795897
+Mumbai,TCP,https://www.taobao.com,2.129832
+Mumbai,TCP,https://www.taobao.com,2.233948
+Mumbai,TCP,https://www.taobao.com,2.233413
+Mumbai,TCP,https://www.taobao.com,1.99578
+Mumbai,TCP,https://login.tmall.com,2.589072
+Mumbai,TCP,https://login.tmall.com,2.130981
+Mumbai,TCP,https://login.tmall.com,2.02016
+Mumbai,TCP,https://login.tmall.com,2.2899
+Mumbai,TCP,https://login.tmall.com,1.780846
+Mumbai,TCP,https://www.wikipedia.org,1.68907
+Mumbai,TCP,https://www.wikipedia.org,1.635067
+Mumbai,TCP,https://www.wikipedia.org,2.201663
+Mumbai,TCP,https://www.wikipedia.org,2.025706
+Mumbai,TCP,https://www.wikipedia.org,2.653511
+Mumbai,UDP,https://nitw.ac.in,1.688656
+Mumbai,UDP,https://nitw.ac.in,1.589654
+Mumbai,UDP,https://nitw.ac.in,3.496299
+Mumbai,UDP,https://nitw.ac.in,1.779898
+Mumbai,UDP,https://nitw.ac.in,1.981349
+Mumbai,UDP,https://www.google.com,1.060367
+Mumbai,UDP,https://www.google.com,1.092771
+Mumbai,UDP,https://www.google.com,1.044573
+Mumbai,UDP,https://www.google.com,1.083538
+Mumbai,UDP,https://www.google.com,1.043512
+Mumbai,UDP,https://www.youtube.com,1.055013
+Mumbai,UDP,https://www.youtube.com,1.052165
+Mumbai,UDP,https://www.youtube.com,1.198263
+Mumbai,UDP,https://www.youtube.com,1.124793
+Mumbai,UDP,https://www.youtube.com,1.194404
+Mumbai,UDP,https://www.tmall.com,2.137843
+Mumbai,UDP,https://www.tmall.com,1.030925
+Mumbai,UDP,https://www.tmall.com,1.035561
+Mumbai,UDP,https://www.tmall.com,1.085482
+Mumbai,UDP,https://www.tmall.com,1.374629
+Mumbai,UDP,https://www.baidu.com,1.438901
+Mumbai,UDP,https://www.baidu.com,1.433921
+Mumbai,UDP,https://www.baidu.com,1.357789
+Mumbai,UDP,https://www.baidu.com,1.400524
+Mumbai,UDP,https://www.baidu.com,1.413799
+Mumbai,UDP,https://www.facebook.com,1.244029
+Mumbai,UDP,https://www.facebook.com,0.981047
+Mumbai,UDP,https://www.facebook.com,0.973964
+Mumbai,UDP,https://www.facebook.com,1.051924
+Mumbai,UDP,https://www.facebook.com,0.985774
+Mumbai,UDP,https://www.qq.com,2.258369
+Mumbai,UDP,https://www.qq.com,2.161632
+Mumbai,UDP,https://www.qq.com,2.173474
+Mumbai,UDP,https://www.qq.com,2.22798
+Mumbai,UDP,https://www.qq.com,2.316782
+Mumbai,UDP,https://www.sohu.com,1.534133
+Mumbai,UDP,https://www.sohu.com,1.48201
+Mumbai,UDP,https://www.sohu.com,1.451731
+Mumbai,UDP,https://www.sohu.com,1.686806
+Mumbai,UDP,https://www.sohu.com,1.563959
+Mumbai,UDP,https://www.taobao.com,1.098473
+Mumbai,UDP,https://www.taobao.com,1.095466
+Mumbai,UDP,https://www.taobao.com,2.119183
+Mumbai,UDP,https://www.taobao.com,1.096634
+Mumbai,UDP,https://www.taobao.com,1.07305
+Mumbai,UDP,https://login.tmall.com,2.544351
+Mumbai,UDP,https://login.tmall.com,9.837968
+Mumbai,UDP,https://login.tmall.com,3.060707
+Mumbai,UDP,https://login.tmall.com,1.519528
+Mumbai,UDP,https://login.tmall.com,1.632133
+Mumbai,UDP,https://www.wikipedia.org,1.05599
+Mumbai,UDP,https://www.wikipedia.org,1.100865
+Mumbai,UDP,https://www.wikipedia.org,1.184201
+Mumbai,UDP,https://www.wikipedia.org,1.222476
+Mumbai,UDP,https://www.wikipedia.org,1.22416
+Seattle,UDP,https://nitw.ac.in,2.511748
+Seattle,UDP,https://nitw.ac.in,2.210497
+Seattle,UDP,https://nitw.ac.in,2.175024
+Seattle,UDP,https://nitw.ac.in,2.043683
+Seattle,UDP,https://nitw.ac.in,2.175022
+Seattle,UDP,https://www.google.com,0.601372
+Seattle,UDP,https://www.google.com,0.599308
+Seattle,UDP,https://www.google.com,0.700589
+Seattle,UDP,https://www.google.com,0.694842
+Seattle,UDP,https://www.google.com,0.721963
+Seattle,UDP,https://www.youtube.com,0.607627
+Seattle,UDP,https://www.youtube.com,0.41669
+Seattle,UDP,https://www.youtube.com,0.421732
+Seattle,UDP,https://www.youtube.com,0.423557
+Seattle,UDP,https://www.youtube.com,0.41771
+Seattle,UDP,https://www.tmall.com,1.205128
+Seattle,UDP,https://www.tmall.com,0.578265
+Seattle,UDP,https://www.tmall.com,0.66868
+Seattle,UDP,https://www.tmall.com,1.261076
+Seattle,UDP,https://www.tmall.com,0.581012
+Seattle,UDP,https://www.baidu.com,0.659625
+Seattle,UDP,https://www.baidu.com,0.65473
+Seattle,UDP,https://www.baidu.com,0.658004
+Seattle,UDP,https://www.baidu.com,0.653059
+Seattle,UDP,https://www.baidu.com,0.65721
+Seattle,UDP,https://www.facebook.com,0.496165
+Seattle,UDP,https://www.facebook.com,0.873017
+Seattle,UDP,https://www.facebook.com,0.476912
+Seattle,UDP,https://www.facebook.com,0.48184
+Seattle,UDP,https://www.facebook.com,0.476673
+Seattle,UDP,https://www.qq.com,0.470522
+Seattle,UDP,https://www.qq.com,0.471181
+Seattle,UDP,https://www.qq.com,0.466655
+Seattle,UDP,https://www.qq.com,0.517807
+Seattle,UDP,https://www.qq.com,0.586613
+Seattle,UDP,https://www.sohu.com,0.597539
+Seattle,UDP,https://www.sohu.com,0.59293
+Seattle,UDP,https://www.sohu.com,0.604898
+Seattle,UDP,https://www.sohu.com,0.597974
+Seattle,UDP,https://www.sohu.com,0.596241
+Seattle,UDP,https://www.taobao.com,0.579683
+Seattle,UDP,https://www.taobao.com,0.658064
+Seattle,UDP,https://www.taobao.com,1.259166
+Seattle,UDP,https://www.taobao.com,0.573503
+Seattle,UDP,https://www.taobao.com,1.254536
+Seattle,UDP,https://login.tmall.com,1.25434
+Seattle,UDP,https://login.tmall.com,1.376782
+Seattle,UDP,https://login.tmall.com,1.278976
+Seattle,UDP,https://login.tmall.com,1.321575
+Seattle,UDP,https://login.tmall.com,0.582173
+Seattle,UDP,https://www.wikipedia.org,0.495174
+Seattle,UDP,https://www.wikipedia.org,0.510863
+Seattle,UDP,https://www.wikipedia.org,0.5184
+Seattle,UDP,https://www.wikipedia.org,0.489317
+Seattle,UDP,https://www.wikipedia.org,0.490223
+Seattle,TCP,https://nitw.ac.in,2.797514
+Seattle,TCP,https://nitw.ac.in,3.151613
+Seattle,TCP,https://nitw.ac.in,2.943503
+Seattle,TCP,https://nitw.ac.in,3.307771
+Seattle,TCP,https://nitw.ac.in,2.82866
+Seattle,TCP,https://www.google.com,0.865331
+Seattle,TCP,https://www.google.com,0.833327
+Seattle,TCP,https://www.google.com,0.983682
+Seattle,TCP,https://www.google.com,0.975204
+Seattle,TCP,https://www.google.com,0.88567
+Seattle,TCP,https://www.youtube.com,0.834687
+Seattle,TCP,https://www.youtube.com,1.016334
+Seattle,TCP,https://www.youtube.com,0.87596
+Seattle,TCP,https://www.youtube.com,0.881804
+Seattle,TCP,https://www.youtube.com,0.920397
+Seattle,TCP,https://www.tmall.com,1.725385
+Seattle,TCP,https://www.tmall.com,1.231358
+Seattle,TCP,https://www.tmall.com,1.211088
+Seattle,TCP,https://www.tmall.com,1.195285
+Seattle,TCP,https://www.tmall.com,1.007637
+Seattle,TCP,https://www.baidu.com,1.26436
+Seattle,TCP,https://www.baidu.com,1.291361
+Seattle,TCP,https://www.baidu.com,1.333426
+Seattle,TCP,https://www.baidu.com,1.336553
+Seattle,TCP,https://www.baidu.com,1.296222
+Seattle,TCP,https://www.facebook.com,0.847575
+Seattle,TCP,https://www.facebook.com,0.970979
+Seattle,TCP,https://www.facebook.com,1.035851
+Seattle,TCP,https://www.facebook.com,0.994015
+Seattle,TCP,https://www.facebook.com,0.967514
+Seattle,TCP,https://www.qq.com,1.019538
+Seattle,TCP,https://www.qq.com,1.172204
+Seattle,TCP,https://www.qq.com,1.138334
+Seattle,TCP,https://www.qq.com,1.148231
+Seattle,TCP,https://www.qq.com,1.344194
+Seattle,TCP,https://www.sohu.com,1.22019
+Seattle,TCP,https://www.sohu.com,1.150793
+Seattle,TCP,https://www.sohu.com,1.190083
+Seattle,TCP,https://www.sohu.com,1.212505
+Seattle,TCP,https://www.sohu.com,1.209033
+Seattle,TCP,https://www.taobao.com,1.111304
+Seattle,TCP,https://www.taobao.com,1.125985
+Seattle,TCP,https://www.taobao.com,1.198505
+Seattle,TCP,https://www.taobao.com,1.087516
+Seattle,TCP,https://www.taobao.com,1.874903
+Seattle,TCP,https://login.tmall.com,1.796586
+Seattle,TCP,https://login.tmall.com,1.867982
+Seattle,TCP,https://login.tmall.com,1.8843
+Seattle,TCP,https://login.tmall.com,1.705115
+Seattle,TCP,https://login.tmall.com,1.778033
+Seattle,TCP,https://www.wikipedia.org,0.989607
+Seattle,TCP,https://www.wikipedia.org,1.02086
+Seattle,TCP,https://www.wikipedia.org,1.055718
+Seattle,TCP,https://www.wikipedia.org,1.193209
+Seattle,TCP,https://www.wikipedia.org,1.035976
+London,TCP,https://nitw.ac.in,2.92268
+London,TCP,https://nitw.ac.in,2.796459
+London,TCP,https://nitw.ac.in,2.978468
+London,TCP,https://nitw.ac.in,2.82016
+London,TCP,https://nitw.ac.in,2.606787
+London,TCP,https://www.google.com,0.858443
+London,TCP,https://www.google.com,0.997298
+London,TCP,https://www.google.com,1.075788
+London,TCP,https://www.google.com,1.050021
+London,TCP,https://www.google.com,0.846768
+London,TCP,https://www.youtube.com,0.975711
+London,TCP,https://www.youtube.com,0.974662
+London,TCP,https://www.youtube.com,2.213207
+London,TCP,https://www.youtube.com,1.048605
+London,TCP,https://www.youtube.com,0.995831
+London,TCP,https://www.tmall.com,1.677315
+London,TCP,https://www.tmall.com,1.842977
+London,TCP,https://www.tmall.com,1.785474
+London,TCP,https://www.tmall.com,1.831999
+London,TCP,https://www.tmall.com,1.95057
+London,TCP,https://www.baidu.com,1.568141
+London,TCP,https://www.baidu.com,1.806392
+London,TCP,https://www.baidu.com,1.737248
+London,TCP,https://www.baidu.com,1.519467
+London,TCP,https://www.baidu.com,1.846275
+London,TCP,https://www.facebook.com,0.984535
+London,TCP,https://www.facebook.com,1.179689
+London,TCP,https://www.facebook.com,1.421047
+London,TCP,https://www.facebook.com,1.088511
+London,TCP,https://www.facebook.com,1.089247
+London,TCP,https://www.qq.com,1.051236
+London,TCP,https://www.qq.com,1.34223
+London,TCP,https://www.qq.com,1.281809
+London,TCP,https://www.qq.com,1.142176
+London,TCP,https://www.qq.com,1.260789
+London,TCP,https://www.sohu.com,1.850387
+London,TCP,https://www.sohu.com,1.821421
+London,TCP,https://www.sohu.com,1.928886
+London,TCP,https://www.sohu.com,1.952142
+London,TCP,https://www.sohu.com,1.718927
+London,TCP,https://www.taobao.com,1.642983
+London,TCP,https://www.taobao.com,1.811642
+London,TCP,https://www.taobao.com,2.133353
+London,TCP,https://www.taobao.com,1.795672
+London,TCP,https://www.taobao.com,3.440813
+London,TCP,https://login.tmall.com,1.771918
+London,TCP,https://login.tmall.com,1.652931
+London,TCP,https://login.tmall.com,1.528376
+London,TCP,https://login.tmall.com,3.100994
+London,TCP,https://login.tmall.com,1.869645
+London,TCP,https://www.wikipedia.org,0.866458
+London,TCP,https://www.wikipedia.org,0.943037
+London,TCP,https://www.wikipedia.org,0.876667
+London,TCP,https://www.wikipedia.org,0.946826
+London,TCP,https://www.wikipedia.org,0.948566
+London,UDP,https://nitw.ac.in,2.248596
+London,UDP,https://nitw.ac.in,2.152585
+London,UDP,https://nitw.ac.in,2.212687
+London,UDP,https://nitw.ac.in,2.037032
+London,UDP,https://nitw.ac.in,2.037659
+London,UDP,https://www.google.com,0.554317
+London,UDP,https://www.google.com,0.5288
+London,UDP,https://www.google.com,0.537504
+London,UDP,https://www.google.com,0.541512
+London,UDP,https://www.google.com,0.544222
+London,UDP,https://www.youtube.com,0.590462
+London,UDP,https://www.youtube.com,0.532064
+London,UDP,https://www.youtube.com,0.543778
+London,UDP,https://www.youtube.com,0.545178
+London,UDP,https://www.youtube.com,0.540681
+London,UDP,https://www.tmall.com,1.355279
+London,UDP,https://www.tmall.com,1.198844
+London,UDP,https://www.tmall.com,1.232493
+London,UDP,https://www.tmall.com,1.277916
+London,UDP,https://www.tmall.com,1.262077
+London,UDP,https://www.baidu.com,1.24965
+London,UDP,https://www.baidu.com,1.222731
+London,UDP,https://www.baidu.com,1.340619
+London,UDP,https://www.baidu.com,1.217045
+London,UDP,https://www.baidu.com,1.367487
+London,UDP,https://www.facebook.com,0.489097
+London,UDP,https://www.facebook.com,0.476042
+London,UDP,https://www.facebook.com,0.495759
+London,UDP,https://www.facebook.com,0.488961
+London,UDP,https://www.facebook.com,0.502294
+London,UDP,https://www.qq.com,0.567254
+London,UDP,https://www.qq.com,0.590853
+London,UDP,https://www.qq.com,0.585261
+London,UDP,https://www.qq.com,0.582273
+London,UDP,https://www.qq.com,0.603548
+London,UDP,https://www.sohu.com,1.596855
+London,UDP,https://www.sohu.com,1.488372
+London,UDP,https://www.sohu.com,1.396967
+London,UDP,https://www.sohu.com,1.469818
+London,UDP,https://www.sohu.com,1.402474
+London,UDP,https://www.taobao.com,1.275083
+London,UDP,https://www.taobao.com,1.190304
+London,UDP,https://www.taobao.com,1.366803
+London,UDP,https://www.taobao.com,1.194668
+London,UDP,https://www.taobao.com,1.252815
+London,UDP,https://login.tmall.com,1.255003
+London,UDP,https://login.tmall.com,1.136361
+London,UDP,https://login.tmall.com,1.215354
+London,UDP,https://login.tmall.com,1.219777
+London,UDP,https://login.tmall.com,1.507708
+London,UDP,https://www.wikipedia.org,0.400991
+London,UDP,https://www.wikipedia.org,0.409152
+London,UDP,https://www.wikipedia.org,0.401713
+London,UDP,https://www.wikipedia.org,0.406491
+London,UDP,https://www.wikipedia.org,0.429074
+Johannesberg,UDP,https://nitw.ac.in,3.654299
+Johannesberg,UDP,https://nitw.ac.in,3.388859
+Johannesberg,UDP,https://nitw.ac.in,3.538598
+Johannesberg,UDP,https://nitw.ac.in,3.56051
+Johannesberg,UDP,https://nitw.ac.in,3.475063
+Johannesberg,UDP,https://www.google.com,1.342694
+Johannesberg,UDP,https://www.google.com,1.4493
+Johannesberg,UDP,https://www.google.com,1.397124
+Johannesberg,UDP,https://www.google.com,1.477561
+Johannesberg,UDP,https://www.google.com,1.518914
+Johannesberg,UDP,https://www.youtube.com,1.507927
+Johannesberg,UDP,https://www.youtube.com,1.49696
+Johannesberg,UDP,https://www.youtube.com,1.447384
+Johannesberg,UDP,https://www.youtube.com,1.426334
+Johannesberg,UDP,https://www.youtube.com,1.672477
+Johannesberg,UDP,https://www.tmall.com,3.584152
+Johannesberg,UDP,https://www.tmall.com,2.896646
+Johannesberg,UDP,https://www.tmall.com,2.691542
+Johannesberg,UDP,https://www.tmall.com,2.624135
+Johannesberg,UDP,https://www.tmall.com,2.860903
+Johannesberg,UDP,https://www.baidu.com,2.869724
+Johannesberg,UDP,https://www.baidu.com,2.302596
+Johannesberg,UDP,https://www.baidu.com,2.441561
+Johannesberg,UDP,https://www.baidu.com,2.452365
+Johannesberg,UDP,https://www.baidu.com,3.065746
+Johannesberg,UDP,https://www.facebook.com,2.049932
+Johannesberg,UDP,https://www.facebook.com,2.013954
+Johannesberg,UDP,https://www.facebook.com,1.966515
+Johannesberg,UDP,https://www.facebook.com,1.997546
+Johannesberg,UDP,https://www.facebook.com,2.162325
+Johannesberg,UDP,https://www.qq.com,1.579891
+Johannesberg,UDP,https://www.qq.com,1.41952
+Johannesberg,UDP,https://www.qq.com,1.347791
+Johannesberg,UDP,https://www.qq.com,1.417983
+Johannesberg,UDP,https://www.qq.com,1.456251
+Johannesberg,UDP,https://www.sohu.com,2.663907
+Johannesberg,UDP,https://www.sohu.com,3.68648
+Johannesberg,UDP,https://www.sohu.com,2.630616
+Johannesberg,UDP,https://www.sohu.com,2.614792
+Johannesberg,UDP,https://www.sohu.com,2.715713
+Johannesberg,UDP,https://www.taobao.com,2.865825
+Johannesberg,UDP,https://www.taobao.com,2.762591
+Johannesberg,UDP,https://www.taobao.com,2.759756
+Johannesberg,UDP,https://www.taobao.com,2.713676
+Johannesberg,UDP,https://www.taobao.com,2.865207
+Johannesberg,UDP,https://login.tmall.com,4.572324
+Johannesberg,UDP,https://login.tmall.com,2.863018
+Johannesberg,UDP,https://login.tmall.com,3.868663
+Johannesberg,UDP,https://login.tmall.com,2.672577
+Johannesberg,UDP,https://login.tmall.com,2.756173
+Johannesberg,UDP,https://www.wikipedia.org,2.014531
+Johannesberg,UDP,https://www.wikipedia.org,1.837571
+Johannesberg,UDP,https://www.wikipedia.org,1.734991
+Johannesberg,UDP,https://www.wikipedia.org,2.041025
+Johannesberg,UDP,https://www.wikipedia.org,2.043525
+Johannesberg,TCP,https://nitw.ac.in,6.522231
+Johannesberg,TCP,https://nitw.ac.in,5.92197
+Johannesberg,TCP,https://nitw.ac.in,5.11448
+Johannesberg,TCP,https://nitw.ac.in,5.424472
+Johannesberg,TCP,https://nitw.ac.in,4.726741
+Johannesberg,TCP,https://www.google.com,2.916237
+Johannesberg,TCP,https://www.google.com,3.288655
+Johannesberg,TCP,https://www.google.com,3.187487
+Johannesberg,TCP,https://www.google.com,2.973909
+Johannesberg,TCP,https://www.google.com,2.795037
+Johannesberg,TCP,https://www.youtube.com,3.110546
+Johannesberg,TCP,https://www.youtube.com,2.806224
+Johannesberg,TCP,https://www.youtube.com,2.591422
+Johannesberg,TCP,https://www.youtube.com,2.889175
+Johannesberg,TCP,https://www.youtube.com,3.237533
+Johannesberg,TCP,https://www.tmall.com,3.722515
+Johannesberg,TCP,https://www.tmall.com,4.637935
+Johannesberg,TCP,https://www.tmall.com,4.396111
+Johannesberg,TCP,https://www.tmall.com,5.753898
+Johannesberg,TCP,https://www.tmall.com,4.436554
+Johannesberg,TCP,https://www.baidu.com,4.091767
+Johannesberg,TCP,https://www.baidu.com,5.172648
+Johannesberg,TCP,https://www.baidu.com,4.091156
+Johannesberg,TCP,https://www.baidu.com,5.120814
+Johannesberg,TCP,https://www.baidu.com,5.452121
+Johannesberg,TCP,https://www.facebook.com,3.222111
+Johannesberg,TCP,https://www.facebook.com,3.056569
+Johannesberg,TCP,https://www.facebook.com,2.872286
+Johannesberg,TCP,https://www.facebook.com,3.317704
+Johannesberg,TCP,https://www.facebook.com,3.328618
+Johannesberg,TCP,https://www.qq.com,3.424662
+Johannesberg,TCP,https://www.qq.com,3.501098
+Johannesberg,TCP,https://www.qq.com,3.407111
+Johannesberg,TCP,https://www.qq.com,3.204498
+Johannesberg,TCP,https://www.qq.com,2.848864
+Johannesberg,TCP,https://www.sohu.com,3.42114
+Johannesberg,TCP,https://www.sohu.com,4.26539
+Johannesberg,TCP,https://www.sohu.com,3.906608
+Johannesberg,TCP,https://www.sohu.com,3.688906
+Johannesberg,TCP,https://www.sohu.com,3.993001
+Johannesberg,TCP,https://www.taobao.com,4.19722
+Johannesberg,TCP,https://www.taobao.com,4.091654
+Johannesberg,TCP,https://www.taobao.com,4.505193
+Johannesberg,TCP,https://www.taobao.com,4.581552
+Johannesberg,TCP,https://www.taobao.com,3.990254
+Johannesberg,TCP,https://login.tmall.com,6.640888
+Johannesberg,TCP,https://login.tmall.com,5.455252
+Johannesberg,TCP,https://login.tmall.com,3.98693
+Johannesberg,TCP,https://login.tmall.com,5.023897
+Johannesberg,TCP,https://login.tmall.com,4.030597
+Johannesberg,TCP,https://www.wikipedia.org,3.382301
+Johannesberg,TCP,https://www.wikipedia.org,3.23819
+Johannesberg,TCP,https://www.wikipedia.org,3.273484
+Johannesberg,TCP,https://www.wikipedia.org,3.073179
+Johannesberg,TCP,https://www.wikipedia.org,3.012659
+Sydney,TCP,https://nitw.ac.in,4.300395
+Sydney,TCP,https://nitw.ac.in,4.273908
+Sydney,TCP,https://nitw.ac.in,4.094163
+Sydney,TCP,https://nitw.ac.in,3.856393
+Sydney,TCP,https://nitw.ac.in,4.152206
+Sydney,TCP,https://www.google.com,3.011061
+Sydney,TCP,https://www.google.com,1.978236
+Sydney,TCP,https://www.google.com,2.574771
+Sydney,TCP,https://www.google.com,2.585514
+Sydney,TCP,https://www.google.com,2.552338
+Sydney,TCP,https://www.youtube.com,2.596044
+Sydney,TCP,https://www.youtube.com,2.948087
+Sydney,TCP,https://www.youtube.com,2.706932
+Sydney,TCP,https://www.youtube.com,3.283648
+Sydney,TCP,https://www.youtube.com,2.673828
+Sydney,TCP,https://www.tmall.com,3.858658
+Sydney,TCP,https://www.tmall.com,3.51514
+Sydney,TCP,https://www.tmall.com,3.067473
+Sydney,TCP,https://www.tmall.com,3.474904
+Sydney,TCP,https://www.tmall.com,2.241529
+Sydney,TCP,https://www.baidu.com,3.235534
+Sydney,TCP,https://www.baidu.com,2.856023
+Sydney,TCP,https://www.baidu.com,3.241723
+Sydney,TCP,https://www.baidu.com,2.916642
+Sydney,TCP,https://www.baidu.com,2.92949
+Sydney,TCP,https://www.facebook.com,2.613266
+Sydney,TCP,https://www.facebook.com,2.407242
+Sydney,TCP,https://www.facebook.com,2.757818
+Sydney,TCP,https://www.facebook.com,2.503592
+Sydney,TCP,https://www.facebook.com,2.721404
+Sydney,TCP,https://www.qq.com,3.600755
+Sydney,TCP,https://www.qq.com,3.138289
+Sydney,TCP,https://www.qq.com,2.420789
+Sydney,TCP,https://www.qq.com,3.245645
+Sydney,TCP,https://www.qq.com,3.170958
+Sydney,TCP,https://www.sohu.com,2.797538
+Sydney,TCP,https://www.sohu.com,2.260655
+Sydney,TCP,https://www.sohu.com,3.25637
+Sydney,TCP,https://www.sohu.com,2.908058
+Sydney,TCP,https://www.sohu.com,2.767205
+Sydney,TCP,https://www.taobao.com,4.093878
+Sydney,TCP,https://www.taobao.com,3.067442
+Sydney,TCP,https://www.taobao.com,2.827426
+Sydney,TCP,https://www.taobao.com,4.654839
+Sydney,TCP,https://www.taobao.com,3.153266
+Sydney,TCP,https://login.tmall.com,2.762817
+Sydney,TCP,https://login.tmall.com,3.987749
+Sydney,TCP,https://login.tmall.com,3.16817
+Sydney,TCP,https://login.tmall.com,4.107142
+Sydney,TCP,https://login.tmall.com,3.580323
+Sydney,TCP,https://www.wikipedia.org,2.817666
+Sydney,TCP,https://www.wikipedia.org,2.853424
+Sydney,TCP,https://www.wikipedia.org,2.711654
+Sydney,TCP,https://www.wikipedia.org,3.138817
+Sydney,TCP,https://www.wikipedia.org,3.123592
+Sydney,UDP,https://nitw.ac.in,2.683355
+Sydney,UDP,https://nitw.ac.in,2.734111
+Sydney,UDP,https://nitw.ac.in,2.79942
+Sydney,UDP,https://nitw.ac.in,2.853991
+Sydney,UDP,https://nitw.ac.in,2.701435
+Sydney,UDP,https://www.google.com,1.153216
+Sydney,UDP,https://www.google.com,1.42884
+Sydney,UDP,https://www.google.com,1.19217
+Sydney,UDP,https://www.google.com,1.147468
+Sydney,UDP,https://www.google.com,1.137193
+Sydney,UDP,https://www.youtube.com,1.126746
+Sydney,UDP,https://www.youtube.com,1.176541
+Sydney,UDP,https://www.youtube.com,1.23239
+Sydney,UDP,https://www.youtube.com,1.266036
+Sydney,UDP,https://www.youtube.com,1.138221
+Sydney,UDP,https://www.tmall.com,2.356828
+Sydney,UDP,https://www.tmall.com,1.749385
+Sydney,UDP,https://www.tmall.com,1.567289
+Sydney,UDP,https://www.tmall.com,1.735068
+Sydney,UDP,https://www.tmall.com,1.450037
+Sydney,UDP,https://www.baidu.com,1.720365
+Sydney,UDP,https://www.baidu.com,1.631424
+Sydney,UDP,https://www.baidu.com,1.656038
+Sydney,UDP,https://www.baidu.com,1.632725
+Sydney,UDP,https://www.baidu.com,1.608513
+Sydney,UDP,https://www.facebook.com,1.230188
+Sydney,UDP,https://www.facebook.com,1.305916
+Sydney,UDP,https://www.facebook.com,1.123643
+Sydney,UDP,https://www.facebook.com,1.251012
+Sydney,UDP,https://www.facebook.com,1.249562
+Sydney,UDP,https://www.qq.com,1.568447
+Sydney,UDP,https://www.qq.com,1.560594
+Sydney,UDP,https://www.qq.com,1.425999
+Sydney,UDP,https://www.qq.com,1.556197
+Sydney,UDP,https://www.qq.com,1.442491
+Sydney,UDP,https://www.sohu.com,1.980343
+Sydney,UDP,https://www.sohu.com,1.874314
+Sydney,UDP,https://www.sohu.com,1.879089
+Sydney,UDP,https://www.sohu.com,2.004839
+Sydney,UDP,https://www.sohu.com,1.915335
+Sydney,UDP,https://www.taobao.com,1.492739
+Sydney,UDP,https://www.taobao.com,1.736457
+Sydney,UDP,https://www.taobao.com,1.765842
+Sydney,UDP,https://www.taobao.com,1.632399
+Sydney,UDP,https://www.taobao.com,1.737414
+Sydney,UDP,https://login.tmall.com,1.637978
+Sydney,UDP,https://login.tmall.com,1.631638
+Sydney,UDP,https://login.tmall.com,1.661711
+Sydney,UDP,https://login.tmall.com,1.528964
+Sydney,UDP,https://login.tmall.com,1.603435
+Sydney,UDP,https://www.wikipedia.org,1.641796
+Sydney,UDP,https://www.wikipedia.org,1.537177
+Sydney,UDP,https://www.wikipedia.org,1.77969
+Sydney,UDP,https://www.wikipedia.org,1.57355
+Sydney,UDP,https://www.wikipedia.org,1.569849
+New York,UDP,https://nitw.ac.in,2.318822
+New York,UDP,https://nitw.ac.in,2.017078
+New York,UDP,https://nitw.ac.in,1.899308
+New York,UDP,https://nitw.ac.in,2.122396
+New York,UDP,https://nitw.ac.in,1.852195
+New York,UDP,https://www.google.com,0.258888
+New York,UDP,https://www.google.com,0.263294
+New York,UDP,https://www.google.com,0.264187
+New York,UDP,https://www.google.com,0.261575
+New York,UDP,https://www.google.com,0.267406
+New York,UDP,https://www.youtube.com,0.243507
+New York,UDP,https://www.youtube.com,0.240984
+New York,UDP,https://www.youtube.com,0.245668
+New York,UDP,https://www.youtube.com,0.243805
+New York,UDP,https://www.youtube.com,0.25107
+New York,UDP,https://www.tmall.com,1.131613
+New York,UDP,https://www.tmall.com,1.147393
+New York,UDP,https://www.tmall.com,1.12688
+New York,UDP,https://www.tmall.com,1.212871
+New York,UDP,https://www.tmall.com,1.12704
+New York,UDP,https://www.baidu.com,0.457194
+New York,UDP,https://www.baidu.com,0.462283
+New York,UDP,https://www.baidu.com,0.465186
+New York,UDP,https://www.baidu.com,0.568113
+New York,UDP,https://www.baidu.com,0.465443
+New York,UDP,https://www.facebook.com,0.153324
+New York,UDP,https://www.facebook.com,0.154716
+New York,UDP,https://www.facebook.com,0.16518
+New York,UDP,https://www.facebook.com,0.154104
+New York,UDP,https://www.facebook.com,0.206321
+New York,UDP,https://www.qq.com,0.078703
+New York,UDP,https://www.qq.com,0.083041
+New York,UDP,https://www.qq.com,0.093799
+New York,UDP,https://www.qq.com,0.080571
+New York,UDP,https://www.qq.com,0.089356
+New York,UDP,https://www.sohu.com,0.427415
+New York,UDP,https://www.sohu.com,0.407785
+New York,UDP,https://www.sohu.com,0.403553
+New York,UDP,https://www.sohu.com,0.40752
+New York,UDP,https://www.sohu.com,0.400193
+New York,UDP,https://www.taobao.com,1.135067
+New York,UDP,https://www.taobao.com,1.153494
+New York,UDP,https://www.taobao.com,1.140629
+New York,UDP,https://www.taobao.com,1.223078
+New York,UDP,https://www.taobao.com,0.421726
+New York,UDP,https://login.tmall.com,1.229955
+New York,UDP,https://login.tmall.com,1.173866
+New York,UDP,https://login.tmall.com,1.274934
+New York,UDP,https://login.tmall.com,1.174428
+New York,UDP,https://login.tmall.com,1.124858
+New York,UDP,https://www.wikipedia.org,0.220416
+New York,UDP,https://www.wikipedia.org,0.211199
+New York,UDP,https://www.wikipedia.org,0.214965
+New York,UDP,https://www.wikipedia.org,0.215354
+New York,UDP,https://www.wikipedia.org,0.21398
+New York,TCP,https://nitw.ac.in,2.132084
+New York,TCP,https://nitw.ac.in,2.267635
+New York,TCP,https://nitw.ac.in,2.318572
+New York,TCP,https://nitw.ac.in,2.222811
+New York,TCP,https://nitw.ac.in,2.49825
+New York,TCP,https://www.google.com,1.237787
+New York,TCP,https://www.google.com,1.052402
+New York,TCP,https://www.google.com,0.375452
+New York,TCP,https://www.google.com,0.431061
+New York,TCP,https://www.google.com,0.340833
+New York,TCP,https://www.youtube.com,0.395137
+New York,TCP,https://www.youtube.com,0.382375
+New York,TCP,https://www.youtube.com,0.379489
+New York,TCP,https://www.youtube.com,0.394949
+New York,TCP,https://www.youtube.com,0.428152
+New York,TCP,https://www.tmall.com,1.236938
+New York,TCP,https://www.tmall.com,1.368432
+New York,TCP,https://www.tmall.com,1.292761
+New York,TCP,https://www.tmall.com,1.385028
+New York,TCP,https://www.tmall.com,1.266291
+New York,TCP,https://www.baidu.com,0.59188
+New York,TCP,https://www.baidu.com,0.674632
+New York,TCP,https://www.baidu.com,0.791593
+New York,TCP,https://www.baidu.com,0.643867
+New York,TCP,https://www.baidu.com,0.608581
+New York,TCP,https://www.facebook.com,0.291323
+New York,TCP,https://www.facebook.com,0.634042
+New York,TCP,https://www.facebook.com,0.366561
+New York,TCP,https://www.facebook.com,0.348791
+New York,TCP,https://www.facebook.com,0.353081
+New York,TCP,https://www.qq.com,0.228153
+New York,TCP,https://www.qq.com,0.241624
+New York,TCP,https://www.qq.com,0.238241
+New York,TCP,https://www.qq.com,0.188617
+New York,TCP,https://www.qq.com,0.292203
+New York,TCP,https://www.sohu.com,0.570379
+New York,TCP,https://www.sohu.com,0.651827
+New York,TCP,https://www.sohu.com,0.556051
+New York,TCP,https://www.sohu.com,0.608356
+New York,TCP,https://www.sohu.com,0.651545
+New York,TCP,https://www.taobao.com,1.209326
+New York,TCP,https://www.taobao.com,1.255267
+New York,TCP,https://www.taobao.com,1.175642
+New York,TCP,https://www.taobao.com,1.214254
+New York,TCP,https://www.taobao.com,1.107644
+New York,TCP,https://login.tmall.com,1.323495
+New York,TCP,https://login.tmall.com,1.333563
+New York,TCP,https://login.tmall.com,1.245608
+New York,TCP,https://login.tmall.com,1.174044
+New York,TCP,https://login.tmall.com,1.249159
+New York,TCP,https://www.wikipedia.org,0.182761
+New York,TCP,https://www.wikipedia.org,0.235107
+New York,TCP,https://www.wikipedia.org,0.253612
+New York,TCP,https://www.wikipedia.org,0.239729
+New York,TCP,https://www.wikipedia.org,0.238971
